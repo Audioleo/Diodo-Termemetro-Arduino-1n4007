@@ -7,10 +7,10 @@ Visite el artículo del blog: [Termómetro con Arduino y diodo 1N4007](https://b
 
 ## Link relacionados:
 
-- https://www.instructables.com/DIY-Temperature-Sensor-Using-One-Diode/
+https://www.instructables.com/DIY-Temperature-Sensor-Using-One-Diode/
 
-- https://www.hackster.io/microst/thermometer-diode-based-524613
+https://www.hackster.io/microst/thermometer-diode-based-524613
 
-- https://www.ti.com/lit/an/sboa277a/sboa277a.pdf?ts=1713188893145&ref_url=https%253A%252F%252Fwww.google.com%252F
+https://www.ti.com/lit/an/sboa277a/sboa277a.pdf?ts=1713188893145&ref_url=https%253A%252F%252Fwww.google.com%252F
 
-- https://learn.newmedia.dog/tutorials/arduino-and-electronics/arduino/analog-input-filtering-smoothing/
+https://learn.newmedia.dog/tutorials/arduino-and-electronics/arduino/analog-input-filtering-smoothing/
