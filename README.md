@@ -5,7 +5,7 @@ Construye este termómetro utilizado un simple diodo de silicio, como el 1N4007/
 ## Más detalles y explicación 
 Visite el artículo del blog: [Termómetro con Arduino y diodo 1N4007](https://blogtronika.blogspot.com/2020/01/termometro-con-arduino-y-diodo-sensor-1n4007.html)
 
-## Link relacionados:
+### Link relacionados:
 
 https://www.instructables.com/DIY-Temperature-Sensor-Using-One-Diode/
 
